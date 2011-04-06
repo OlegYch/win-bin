@@ -7,4 +7,3 @@ h1. Instructions:
 # > mkdir c:\bin
 # > move *.lnk c:\bin
 # add c:\bin to PATH variable
-#
