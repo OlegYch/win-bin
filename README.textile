@@ -1,6 +1,6 @@
 h1. Instructions:
 
-# Install sbt "https://github.com/harrah/xsbt":url
+# Install sbt "https://github.com/harrah/xsbt":https://github.com/harrah/xsbt
 # > git clone git://github.com/OlegYch/win-bin.git
 # > cd win-bin
 # > sbt "run \"C:/Program Files/\" 2"
