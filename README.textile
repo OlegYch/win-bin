@@ -1,0 +1,10 @@
+h1. Instructions:
+
+# Install sbt "https://github.com/harrah/xsbt":url
+# > git clone git://github.com/OlegYch/win-bin.git
+# > cd win-bin
+# > sbt "run \"C:/Program Files/\" 2"
+# > mkdir c:\bin
+# > move *.lnk c:\bin
+# add c:\bin to PATH variable
+#

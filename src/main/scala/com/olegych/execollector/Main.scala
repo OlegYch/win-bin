@@ -43,8 +43,8 @@ class Main {
 }
 
 object Main extends App {
-  val path = try args(1) catch {case _ => readLine("Enter root:")}
-  val depth = try Integer.parseInt(args(2)) catch {case _ => 1}
+  val path = try args(0) catch {case _ => readLine("Enter root:")}
+  val depth = try Integer.parseInt(args(1)) catch {case _ => 1}
 
   new Main {
 
